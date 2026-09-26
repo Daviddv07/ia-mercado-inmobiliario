@@ -1,0 +1,9 @@
+-r requirements.txt
+tensorflow
+torch
+nltk
+gensim
+transformers
+datasets
+accelerate
+sentencepiece
